@@ -1,0 +1,34 @@
+_repo: Philippine-Folk-Tales_12814
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Cole, Mabel Cook
+    deathdate: 1978
+    gutenberg_agent_id: '4615'
+    url: http://www.gutenberg.org/2009/agents/4615
+covers:
+- cover_type: archival
+  image_path: 12814/12814-h/images/titlepage.gif
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+- cover_type: archival
+  image_path: 12814/12814-h/images/front.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+description: ''
+gutenberg_bookshelf: Folklore
+gutenberg_issued: '2004-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Philippines'
+- !lcc 'GR'
+- !lcsh 'Tales -- Philippines'
+- GITenberg
+title: Philippine Folk Tales
+url: http://www.gutenberg.org/ebooks/12814
